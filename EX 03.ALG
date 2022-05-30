@@ -23,7 +23,7 @@ Inicio
       Leia (Sal)
       Escreval ("Informa o mês")
       Leia (Mes)
-      Escreva ("O(A) funcionário(a) ", Nome , " tem um salário de R$", Sal , " em ", Mes)
+      Escreva ("O(A) funcionário(a) ", Nome , "tem um salário de R$", Sal , " em ", Mes)
 
 
 Fimalgoritmo
